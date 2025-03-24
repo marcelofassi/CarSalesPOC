@@ -63,7 +63,7 @@ fastapi_autos_project/
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/fastapi_autos_project.git
+   git clone https://github.com/tu-usuario/fastapi_autos_project.git](https://github.com/marcelofassi/CarSalesPOC.git
    cd fastapi_autos_project
    ```
 
